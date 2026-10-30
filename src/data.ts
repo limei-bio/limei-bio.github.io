@@ -10,7 +10,7 @@ export const profile = {
   location: '杭州',
   field: '生物技术与细胞治疗',
   status: '正在看新的机会',
-  email: '18702262807@163.com',
+  email: 'limeibio@163.com',
   intro:
     '细胞研究员。研究方向为多能干细胞定向分化与细胞治疗工艺开发。',
 }
